@@ -80,7 +80,7 @@ class TestTriangles(unittest.TestCase):
     def test_scalene2(self):
         self.assertEqual(classifyTriangle(6, 7, 8), 'Scalene')
 
-    def test_scalene3(test):
+    def test_scalene3(self):
         self.assertEqual(classifyTriangle(2, 3, 4), 'Scalene')
 
     def test_scalene4(self):
